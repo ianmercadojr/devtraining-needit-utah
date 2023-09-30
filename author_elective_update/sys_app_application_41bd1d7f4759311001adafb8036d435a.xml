@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 10:03:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41bd1d7f4759311001adafb8036d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ian Mercado AppFile Lab Exercise</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_41bd1d7f4759311001adafb8036d435a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 10:03:06</sys_updated_on>
+        <title>Ian Mercado AppFile Lab Exercise</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>17352ca0dbfc3f40387021c4059619aa</instance_id>
+        <instance_name>dev80071</instance_name>
+        <name>sys_app_application_41bd1d7f4759311001adafb8036d435a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-22 10:03:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41bd1d7f4759311001adafb8036d435a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ian Mercado AppFile Lab Exercise</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_41bd1d7f4759311001adafb8036d435a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-22 10:03:06</sys_updated_on><title>Ian Mercado AppFile Lab Exercise</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-555121115</payload_hash>
+        <record_name>Ian Mercado AppFile Lab Exercise</record_name>
+        <reverted_from/>
+        <source>0dcb45fb4719311001adafb8036d4318</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 10:03:06</sys_created_on>
+        <sys_id>fa0e15ff4759311001adafb8036d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18abc57d2370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 10:03:06</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>320e15ffa95931105cdbc9ae08081cfd</update_guid>
+        <update_guid_history>320e15ffa95931105cdbc9ae08081cfd:-555121115</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Ian Mercado AppFile Lab Exercise">5cfe91334799311001adafb8036d4367</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 10:07:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>d9def89bce7b483da15fbb66894439d9</sys_id>
+        <sys_metadata>41bd1d7f4759311001adafb8036d435a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ian Mercado AppFile Lab Exercise</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_41bd1d7f4759311001adafb8036d435a</sys_update_name>
+        <sys_update_version display_value="sys_app_application_41bd1d7f4759311001adafb8036d435a">fa0e15ff4759311001adafb8036d43fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 10:07:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
